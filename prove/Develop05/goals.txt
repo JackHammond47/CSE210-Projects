@@ -1,0 +1,4 @@
+0
+SimpleGoal:Eating tacos,Enough said,100,0
+EternalGoal:Dishes,Doing them dishes,10,0
+ChecklistGoal:This assignment,do hw,10000,0,2,10
