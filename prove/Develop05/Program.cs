@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using Goals;
 
-//llok up satic functions after sleeping
+//look up satic functions after sleeping
 
 class Program
 {
